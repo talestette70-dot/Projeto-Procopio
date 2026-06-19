@@ -1,0 +1,28 @@
+ .titulo{
+
+    border:2px 
+    solid Tomato;
+
+} 
+
+
+   h1 {
+    background-color:DodgerBlue;
+
+     font-size: 40px;
+
+     text-align: center;
+
+  font-family: Times New Roman, serif;
+
+  }
+
+  p {
+    font-family: Courier New, monospace;
+  }
+
+   body {
+        background: linear-gradient(135deg, #8a1e47, #7c3aed);
+        min-height: 100vh;
+        margin: 0;
+    }
